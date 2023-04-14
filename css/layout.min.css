@@ -274,9 +274,9 @@ fieldset[disabled] .btn-theme {
 .btn-white-brd.focus,
 .btn-white-brd:focus,
 .btn-white-brd:hover {
-  color: #515769;
-  background: red;
-  border-color: red;
+  color: white;
+  background: #fd871f;
+  border-color: white; 
 }
 .btn-default-bg {
   color: #515769;
@@ -1608,19 +1608,7 @@ fieldset[disabled] .btn-theme {
   margin-bottom: 15px;
 }
 
-.textcheck{
- 
-} 
 
-
-
- 
-.HistoryFrame div{
-  color:red; 
-}
-  
-
- 
 
 footer h3{
   color: white;  
